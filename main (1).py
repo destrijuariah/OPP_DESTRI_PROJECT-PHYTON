@@ -1,0 +1,2 @@
+print("good morning!")
+print("haii"); print("nama saya destri"); print("bisa dipanggil dedess"); print("saya tinggal di Babakan Ngantay"); print("saya sekolah di SMK PGRI"); print("di kelas 10 RPL 2"); print("hobi saya menggambar dan menyanyi");
