@@ -1,4 +1,0 @@
-nama= "Yolanda"
-kelas= "XII RPL 3"
-umur= 18
-print("Halo, nama saya", nama, "dari kelas", kelas, "umur", umur, "Tahun")
