@@ -1,0 +1,4 @@
+print("Gambar Persegi Bintang (6x6):")
+
+for i in range(6):
+    print("* " * 6)
